@@ -5,18 +5,11 @@ This README file contains information about a responsive website page. The page 
 
 Features:
 The responsive website page includes the following features:
-
-  1.Responsive design: The page has been designed to adjust its layout and content according to the screen size of the device it is being viewed on.
-	
-  2.Navigation: The page includes a navigation menu that allows users to easily access different sections of the website.
-	
-  3.Images and videos: The page features high-quality images and videos that have been optimized for fast loading times.
-	
-  4.Font and typography: The page uses a clear and readable font that is easy to read on different devices and screen sizes.
-	
-  5.Call-to-action buttons: The page includes call-to-action buttons that encourage users to take specific actions, such as making a purchase or signing up for a  
-  newsletter.
-	
+  1.Responsive design: The page has been designed to adjust its layout and content according to the screen size of the device it is being viewed on.	
+  2.Navigation: The page includes a navigation menu that allows users to easily access different sections of the website.	
+  3.Images and videos: The page features high-quality images and videos that have been optimized for fast loading times.	
+  4.Font and typography: The page uses a clear and readable font that is easy to read on different devices and screen sizes.	
+  5.Call-to-action buttons: The page includes call-to-action buttons that encourage users to take specific actions, such as making a purchase or signing up for a newsletter.	
   6.Social media integration: The page includes social media icons that allow users to share the website on their favorite social media platforms.
 
 Installation:
